@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+loguru
+pydantic
+python-dotenv
+psycopg2-binary
+lxml
+selenium
